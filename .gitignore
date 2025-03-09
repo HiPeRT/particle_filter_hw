@@ -1,0 +1,15 @@
+build
+install
+log
+hls/rm_kria
+
+# Xilinx garbage
+.apc/
+.settings/
+.Xil/
+.cproject
+.project
+.vitis_hls_log_all.xml
+.vivado_hls_log_all.xml
+vitis_hls.log
+vivado_hls.log
